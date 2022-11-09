@@ -46,13 +46,8 @@ The main aim of the project is to building a model which is used for classifying
 - Cloudant DB.
 
 
+![image](https://user-images.githubusercontent.com/107145659/200748001-6beba391-9139-4113-b0e7-3e1a925b7ed0.png)
 
 
-
-
-![image](https://user-images.githubusercontent.com/107145659/200746952-0f5d29ed-5b5d-4d03-b8e9-117d492b1172.png)
-
-
-  
 
 
