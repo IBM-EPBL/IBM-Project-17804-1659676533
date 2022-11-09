@@ -1,0 +1,18 @@
+<?php
+
+$hostname = "localhost";
+$username = "root";
+$password = "";
+$database = "test";
+
+$conn = mysqli_connect($hostname, $username, $password, $database) or die("Database connection failed");
+
+$base_url = "http://localhost/Scan-My-Nutri/";
+$my_email = "scanmynutrition@gmail.com";
+
+
+
+$smtp['host'] = "smtp.gmail.com";
+$smtp['user'] = "scanmynutrition@gmail.com";
+$smtp['pass'] = "ikebziewqmxwgscw";
+$smtp['port'] = 465;
