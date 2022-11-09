@@ -36,9 +36,17 @@ Food is essential for human life and has been the concern of many healthcare con
  
 The main aim of the project is to building a model which is used for classifying the fruit depends on the different characteristics like colour, shape, texture etc. Here the user can capture the images of different fruits and then the image will be sent the trained model. The model analyses the image and detect the nutrition based on the fruits like (Sugar, Fibre, Protein, Calories, etc.).
 
-  <h2>🎯SKILLS REQUIRED</h2>       
-IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
+  <h2>🎯SKILLS REQUIRED</h2>   
+  
+- IBM Cloud
+- IBM Cloud Object Storage
+- Python
+- IBM Watson IoT Platform
+- Flask
+- Cloudant DB.
 
-
+<p align="center">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Fhealth%2Fdiet-nutrition%2Fg28511617%2Fhealthiest-fruits%2F&psig=AOvVaw3C2beSWf7aJRMEIii-Uszp&ust=1668058110938000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDUpPiuoPsCFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80"></p>
+  
 
 
