@@ -45,8 +45,14 @@ The main aim of the project is to building a model which is used for classifying
 - Flask
 - Cloudant DB.
 
-<p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Fhealth%2Fdiet-nutrition%2Fg28511617%2Fhealthiest-fruits%2F&psig=AOvVaw3C2beSWf7aJRMEIii-Uszp&ust=1668058110938000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDUpPiuoPsCFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80"></p>
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/107145659/200746952-0f5d29ed-5b5d-4d03-b8e9-117d492b1172.png)
+
+
   
 
 
