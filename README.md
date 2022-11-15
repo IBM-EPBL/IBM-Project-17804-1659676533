@@ -1,14 +1,13 @@
-<div align="center">
+
 
 # **IBM-Project-17804-1659676533**
 
-# **AI-powered Nutrition Analyzer for Fitness Enthusiasts**
-  
- </div> 
+**AI-powered Nutrition Analyzer for Fitness Enthusiasts**
+ 
    
 ![image](https://user-images.githubusercontent.com/116865173/201873658-de53357a-60e0-4014-bf4c-11ef58a44757.png)
 
- 
+ # **AI-powered Nutrition Analyzer for Fitness Enthusiasts**
 
 TECHNOLOGY : ARTIFICIAL INTELLIGENCE        
     
