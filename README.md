@@ -1,24 +1,14 @@
 # IBM-Project-17804-1659676533
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
-<div align="center">
-
-
-
-<!-- PROJECT LOGO -->
-
-<br />
-
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png" alt="Logo" width="320" height="128">
-  </a>
-                   
-
-  </div> 
   
-  <div align="center">
+  
+   
+![image](https://user-images.githubusercontent.com/116865173/201873658-de53357a-60e0-4014-bf4c-11ef58a44757.png)
+
+ <div align="center">
   
  # **AI-Powered Nutrition Analyzer For Fitness Enthusiasts**      
-   </div> 
+   </div>
 
 TECHNOLOGY : ARTIFICIAL INTELLIGENCE        
     
