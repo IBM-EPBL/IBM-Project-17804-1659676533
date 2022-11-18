@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Digit Recongizer</title>
+</head>
+<style>
+al {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li{
+  border-right:ipx solid #bbb;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #ffbf00;
+}
+body
+{
+  background-image:url('back1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+<body>
+<al>
+<li style="float:right"><a class="active" href="final home.html"> HOME </a></li>
+</al>
+    <div class="Parent-container">
+        <div class="header">
+<div style = "position:relative; 
+ left:100px; 
+ top:100px;
+ text-align:center;
+ margin-left:400px;
+ margin-right:400px;
+ margin-top:50px;
+ margin-bottom:50px;
+ border-radius:5px;
+ padding-left:40px;
+ padding-right:40px;
+ padding-top:10px;
+ padding-bottom:10px;
+ color:#000000;
+ opacity: 0.5;">
+            <h1 class="heading">UPLOAD IMAGE TO CLASSIFY</h1>
+            <div class="navbar">
+                <al>
+         
+                    <!-- <li><a href="/templates/index.html">Home</a></li>
+                    <li><a href="/templates/web.html">Recognize</a></li> -->
+                </al>
+            </div>
+        </div>
+</div>
+        <div class="background-image">
+<div style = "position:relative; 
+ left:100px; 
+ top:100px;
+ text-align:center;">
+            
+            <div class="text">
+                <form action="/web" method="POST" enctype="multipart/form-data">
+                    <div class="file">
+                        <label>Select a image:</label>
+                        <input id="image" type="file" name="image" accept="image/png, image/jpeg" onchange="preview()">
+                    </div>
+                    <div class="image-border">
+                        <img id="frame" class="img" src="" />
+                    </div>
+                    <div class="button">
+                        <button type="submit" class="btn">Predict</button>
+                        <button type="button" class="btn" onclick="cleardata()">&nbsp Clear &nbsp</button>
+                    </div>
+                   
+                </form>
+<h4>Nutrition Facts</h4>
+<h4>APPLE</h4>
+<p>Sources include: USDA</p>
+<p>Amount Per 100 grams</p>
+<p>Calories 52</p>
+<p>% Daily Value*</p>
+<p>Total Fat 0.2 g	0%</p>
+<p>Saturated fat 0 g	0%</p>
+<p>Cholesterol 0 mg	0%</p>
+<p>Sodium 1 mg	0%</p>
+<p>Potassium 107 mg	3%</p>
+<p>Total Carbohydrate 14 g	4%</p>
+<p>Dietary fiber 2.4 g	9%</p>
+<p>Sugar 10 g	</p>
+<p>Protein 0.3 g	0%</p>
+<p>Vitamin C	7%	</p>
+<p>Calcium	0%</p>
+<p>Iron	0%</p>
+<p>Vitamin D	0%</p>
+<p>Vitamin B6	0%</p>
+<p>Cobalamin	0%</p>
+<p>Magnesium	1%</p>
+            </div>
+        </div>  
+    </div>
+</div>
+
+</body>
+
+<script>
+    function preview() {
+        document.getElementById("frame").src = URL.createObjectURL(event.target.files[0]);
+    }
+
+    function cleardata(){
+        document.getElementById("frame").src = "";
+        document.getElementById("image").value = "";
+    }
+
+</script>
+
+</html>	
