@@ -33,7 +33,7 @@ The main aim of the project is to building a model which is used for classifying
 - IBM Watson IoT Platform
 - Flask
 - Cloudant DB.
-- 
+
 <h2>VIDEO LINK</h2>
 https://drive.google.com/file/d/1Ujq_RUVhau9SiLFGAmeyW5p_e4mkw_Zd/view?usp=share_link
 
